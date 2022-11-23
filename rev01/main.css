@@ -1,0 +1,22 @@
+body {
+	background-color: lightblue;
+}
+
+p {
+	font-size: 36px;
+	color: red;
+}
+
+button {
+	height: 75px;
+	width: 150px;
+	background-color: yellow;
+	border-color: black;
+	font-size: 25px;
+	color: blue;
+}
+
+button:hover {
+	background-color: red;
+	font-size: 200%;
+}

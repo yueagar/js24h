@@ -1,0 +1,13 @@
+body {
+	background-color: lightblue;
+}
+
+p {
+	font-size: 36px;
+	color: red;
+}
+
+li {
+    color: red;
+    font-size: 36px;
+}
