@@ -1,2 +1,2 @@
-# js24h
+# Brief description
 My JavaScript self-learning stuff in 2018.
